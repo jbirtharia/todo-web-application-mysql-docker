@@ -130,7 +130,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>jayendra/${project.name}</repository>
+					<repository>jbirtharia/${project.name}</repository>
 					<tag>${project.version}</tag>
 					<skipDockerInfo>true</skipDockerInfo>
 				</configuration>
